@@ -1,8 +1,8 @@
 
 Changed:
 
-covariance-matrix(covariance matrix:1526)
-canonical-analysis(canonical analysis:742)
-singular-value-decomposition(singular value decomposition:1538)
+[S] covariance-matrix(covariance matrix:1526)
+[S] canonical-analysis(canonical analysis:742)
+[S] singular-value-decomposition(singular value decomposition:1538)
 
 New:
