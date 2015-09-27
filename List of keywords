@@ -8,7 +8,10 @@ Change:
 [S] covariance(covariance:609, Covariance:1328)
 [S] cluster-analysis(cluster analysis:709)
 [S] euclidean-norm(euclidean norm:2037)
+[S] apparent-error-rate(apparent error rate:591)
+[S] maximum-likelihood(maximum likelihood:1736)
 
 New:
 
 [S] kmeans
+[S] discriminant-analysis
