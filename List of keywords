@@ -7,17 +7,17 @@ Change:
 
 _ [S] apparent-error-rate(apparent error rate:591)
 _ [S] maximum-likelihood(maximum likelihood:1736)
+_ [S] cluster-analysis(cluster analysis:709)
+_ [S] euclidean-norm(euclidean norm:2037)
 
 [S] covariance-matrix(covariance matrix:1526)
 [S] canonical-analysis(canonical analysis:742)
 [S] singular-value-decomposition(singular value decomposition:1538)
 [S] canonical-parameter(Canonical parameter:872)
 [S] covariance(covariance:609, Covariance:1328)
-[S] cluster-analysis(cluster analysis:709)
-[S] euclidean-norm(euclidean norm:2037)
 
 
 New:
 
 _ [S] discriminant-analysis
-[S] kmeans
+_ [S] kmeans
