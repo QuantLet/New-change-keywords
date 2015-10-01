@@ -6,7 +6,8 @@
 
 Change:
 
-
+  [S] projection-pursuit(projection pursuit:881)
+  [S] exploratory-projection-pursuit(exploratory projection pursuit:1319)
   [S] dimension-reduction(dimension reduction:1258)
   [S] simplicial-depth(simplicial depth:320)
 _ [S] apparent-error-rate(apparent error rate:591)
@@ -23,6 +24,10 @@ _ [S] singular-value-decomposition(singular value decomposition:1538)
 -> check out:
 http://quantnet.wiwi.hu-berlin.de/index.php?p=searchResults&w=keyword&id=405
 (I will give a detailed explanation later...)
+
+----------------------------------------------------
+Probably do the same with EPP and exploratory-projection-pursuit ?
+----------------------------------------------------
 
 New:
 
