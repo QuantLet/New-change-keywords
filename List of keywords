@@ -5,11 +5,13 @@
 # ->: look here
 
 Change:
-
+  [S] actual-error-rate(actual error rate:594)
+  [S] euclidean-distance-matrix(euclidean distance matrix:711)
   [S] projection-pursuit(projection pursuit:881)
   [S] exploratory-projection-pursuit(exploratory projection pursuit:1319)
   [S] dimension-reduction(dimension reduction:1258)
   [S] simplicial-depth(simplicial depth:320)
+  
 _ [S] apparent-error-rate(apparent error rate:591)
 _ [S] maximum-likelihood(maximum likelihood:1736)
 _ [S] cluster-analysis(cluster analysis:709)
