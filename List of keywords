@@ -5,6 +5,9 @@
 # ->: look here
 
 Change:
+  [S] npca(NPCA:1535)
+  [S] eigenvalue-decomposition(eigenvalue decomposition:1273)
+  [S] dimension-reduction(dimension reduction:1258)
   [S] actual-error-rate(actual error rate:594)
   [S] euclidean-distance-matrix(euclidean distance matrix:711)
   [S] projection-pursuit(projection pursuit:881)
