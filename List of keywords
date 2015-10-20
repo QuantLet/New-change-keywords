@@ -16,6 +16,9 @@ Change:
   [S] simplicial-depth(simplicial depth:320)
   [S] pcp(pcp:1104,PCP:366)
   [S] parallel-coordinates-plot(parallel coordinates plots:1416)
+  [S] correspondence-analysis (correspondence analysis:404)
+  [S] factorial-decomposition (factorial decomposition:1539)
+  [S] chi-square-test (chi-square test:2075)
   
 _ [S] apparent-error-rate(apparent error rate:591)
 _ [S] maximum-likelihood(maximum likelihood:1736)
