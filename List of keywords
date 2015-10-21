@@ -5,7 +5,7 @@
 # ->: look here
 
 Change:
-
+  [S] spectral-decomposition(spectral decomposition:1533)
   [S] panel-analysis(panel analysis:2115)
   [S] npca(NPCA:1535)
   [S] eigenvalue-decomposition(eigenvalue decomposition:1273)
