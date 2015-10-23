@@ -5,6 +5,7 @@
 # ->: look here
 
 Change:
+  [S] common-principal-component(common principal component:1734)
   [S] spectral-decomposition(spectral decomposition:1533)
   [S] panel-analysis(panel analysis:2115)
   [S] npca(NPCA:1535)
