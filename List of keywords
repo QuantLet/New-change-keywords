@@ -5,6 +5,8 @@
 # ->: look here
 
 Change:
+  [S] correlation-matrix (correlation matrix: 1851)
+  [S] cross-validation (cross validation: 1448)
   [S] common-principal-component(common principal component:1734)
   [S] spectral-decomposition(spectral decomposition:1533)
   [S] panel-analysis(panel analysis:2115)
