@@ -15,15 +15,14 @@ _ [S] eigenvalue-decomposition(eigenvalue decomposition:1273)
 _ [S] dimension-reduction(dimension reduction:1258)
 _ [S] actual-error-rate(actual error rate:594)
 _ [S] euclidean-distance-matrix(euclidean distance matrix:711)
-  [S] projection-pursuit(projection pursuit:881)
-  [S] exploratory-projection-pursuit(exploratory projection pursuit:1319)
-  [S] dimension-reduction(dimension reduction:1258)
-  [S] simplicial-depth(simplicial depth:320)
-  [S] pcp(pcp:1104,PCP:366)
-  [S] parallel-coordinates-plot(parallel coordinates plots:1416)
-  [S] correspondence-analysis (correspondence analysis:404)
-  [S] factorial-decomposition (factorial decomposition:1539)
-  [S] chi-square-test (chi-square test:2075)
+_ [S] projection-pursuit(projection pursuit:881)
+_ [S] exploratory-projection-pursuit(exploratory projection pursuit:1319)
+_ [S] simplicial-depth(simplicial depth:320)
+_ [S] pcp(pcp:1104,PCP:366)
+_ [S] parallel-coordinates-plot(parallel coordinates plots:1416)
+_ [S] correspondence-analysis (correspondence analysis:404)
+_ [S] factorial-decomposition (factorial decomposition:1539)
+_ [S] chi-square-test (chi-square test:2075)
   
 _ [S] apparent-error-rate(apparent error rate:591)
 _ [S] maximum-likelihood(maximum likelihood:1736)
@@ -35,8 +34,8 @@ _ [S] canonical-parameter(Canonical parameter:872)
 _ [S] covariance(covariance:609, Covariance:1328)
 
 Change (another way):
-  [S] EPP and exploratory-projection-pursuit
-  [S] pcp and parallel-coordinates-plot
+_ [S] EPP and exploratory-projection-pursuit
+_ [S] pcp and parallel-coordinates-plot
 
 _ [S] singular-value-decomposition(singular value decomposition:1538)
 -> check out:
